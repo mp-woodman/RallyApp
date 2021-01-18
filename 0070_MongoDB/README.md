@@ -114,7 +114,7 @@ Eine einfache Python3 Anwendung stellen die letzten 10 Einträge aus dem Raspber
 
 3. Hier ein Bild der GUI
 
-    <img src="01_Pictures/PythonGui.jpg" width="500">  
+    <img src="01_Pictures/PythonGui.JPG" width="500">  
 
 
 ## Quellen

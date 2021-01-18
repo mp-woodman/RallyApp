@@ -76,7 +76,7 @@ Zu Trainigszwecken fährt man nun immer zu einer vollen Minute (DCF77 oder eines
 Der RallyMaster links und ein RallyESP rechts: \
 (Prototypen, im nächsten Entwicklungsschritt werden die Bauteile in einem 3D gedruckten Gehäuse untergebracht und um den Akkubetrieb erweitert):
 
-<img src="0000_Global_Files\RallyMaster.jpg" height="250">  <img src="0000_Global_Files\RallyESP.jpg" height="250">
+<img src="0000_Global_Files\RallyMaster.jpg" height="250">  <img src="0000_Global_Files\rallyESP.jpg" height="250">
 
 Möchte ein Teilnehmer trainieren, so meldet er sich mit seinem RallyESP via NFC beim RallyMaster an und erhält eine eindeutige Nummer. Anschließend verbindet sich der RallyESP mit dem WLAN welches der RallyMaster aufspannt. Über die WLAN Verbindung erfolgt nun die weitere Kommunikation. 
 
@@ -86,8 +86,8 @@ Wenn mehrere Teilnehmer und somit mehrere RallyESPs registriert sind, weiss der 
 
 Der detaillierte Ablauf und das Blockdiagramm des CPS kann den folgenden Abbildungen entnommen werden.
 
-<img src="0000_Global_Files\Ablauf.jpg" weight="500">
-<img src="0000_Global_Files\Aufbau.jpg" weight="500">
+<img src="0000_Global_Files\Ablauf.JPG" weight="500">
+<img src="0000_Global_Files\Aufbau.JPG" weight="500">
 
 
 ## Lösungsschritte
